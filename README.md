@@ -70,11 +70,3 @@ This project demonstrates **real-world DevOps practices**, including both **Cont
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!  
-Feel free to fork the repository, open an issue, or submit a pull request.
-
----
-
-⭐ **If you like this project, consider giving it a star!**
